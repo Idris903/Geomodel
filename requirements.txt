@@ -1,0 +1,8 @@
+# Trained on Google Colab (Python 3.13, PyTorch 2.11, CUDA 12.8)
+torch
+numpy
+pillow
+albumentations
+matplotlib
+tqdm
+kaggle

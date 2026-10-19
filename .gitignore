@@ -1,0 +1,18 @@
+# Secrets
+kaggle.json
+.env
+
+# Dataset and generated masks (downloaded from Kaggle, too large for git)
+data/
+deepglobe/
+processed_masks/
+processed_test_masks/
+*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
